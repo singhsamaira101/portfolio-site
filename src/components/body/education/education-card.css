@@ -1,0 +1,36 @@
+.education-card{
+    padding: 8px;
+    width: 70%;
+    margin-top: 16px;
+    
+    
+}
+
+.education-info{
+    
+    
+}
+
+.education-dates{
+    color: gray;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -10px;
+}
+
+.education-desc{
+    text-align: left;
+    margin-top: -27px;
+}
+
+@media only screen and(max-width: 720px) {
+    .education-card{
+        width: 100%;
+        
+    }
+    
+}
+.schoo-name{
+    margin-top: 10px;
+}
+ 

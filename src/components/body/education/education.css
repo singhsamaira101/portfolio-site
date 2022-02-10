@@ -1,0 +1,12 @@
+.education{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.education-list{
+    flex-wrap: wrap;
+}
+.school-name{
+    font-weight: 600;
+}
